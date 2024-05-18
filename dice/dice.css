@@ -1,0 +1,14 @@
+canvas {
+    border: 1px solid black;
+    display: block;
+    margin: 20px auto;
+    
+}
+#dicecanavs{
+    justify-content: center;
+    align-items: center;
+    
+}
+h1{
+    text-align: center;
+}
